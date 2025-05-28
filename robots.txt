@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-site.readthedocs.io/en/latest/sitemap.xml
+
+Disallow: /search/
+Disallow: /_sources/
+Disallow: /_static/
