@@ -1,4 +1,4 @@
-Trézor Bridge® | Introducing the New Trézor App
+Trézór Bridge® | Introducing the New Trézór App
 ==========================================
 
 Welcome to the official documentation for Bridge - a secure hardware connectivity solution.
