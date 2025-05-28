@@ -10,11 +10,4 @@ sphinx:
 
 python:
   install:
-    - method: pip
-      command: python -m ensurepip
-    - method: pip
-      path: .
-      extra_requirements: ['pip']
-    - method: pip
-      path: .
     - requirements: requirements.txt
